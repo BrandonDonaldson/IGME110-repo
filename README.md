@@ -4,10 +4,6 @@
 
 - RIT https://www.rit.edu/
 
-- https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI6RPkxbjzc6IBeJCtKlfLXXV-4RrW0rA5AQ2GrIfRSfbcMhDH
-
-- [Kendrick Lamar](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI6RPkxbjzc6IBeJCtKlfLXXV-4RrW0rA5AQ2GrIfRSfbcMhDH)
-
 1. RIT is a good school
 2. TPAB is the greatest album of all time
 
