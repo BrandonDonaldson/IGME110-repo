@@ -5,6 +5,8 @@
 
 - Ye
 
--A tribe called quest
+- A tribe called quest
 
--Jcole
+4. Jcole
+
+ ![image](https://github.com/user-attachments/assets/4fe146a7-fa8e-440b-86a6-d5fc89eee605)
