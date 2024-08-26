@@ -3,7 +3,7 @@
 ## LEVEL 2 HEADER
 
 - RIT https://www.rit.edu/
-[RIT](https://www.rit.edu)
+- [RIT](https://www.rit.edu)
 1. RIT is a good school
 2. TPAB is the greatest album of all time
 
