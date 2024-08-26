@@ -1,3 +1,7 @@
 # IGME110-repo
 ---
-## Level 2 Heading
+## Top 4 Rappers
+-Kendrick
+-Ye
+-A tribe called quest
+-Jcole
